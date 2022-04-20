@@ -17,4 +17,7 @@ python3 sbert.py
 ```
 
 ### Model
-[bi_encoder_roberta-wwm-ext](https://huggingface.co/tuhailong/bi_encoder_roberta-wwm-ext)
+[roberta-wwm-ext](https://huggingface.co/tuhailong/bi_encoder_roberta-wwm-ext)
+
+###Language
+Chinese
